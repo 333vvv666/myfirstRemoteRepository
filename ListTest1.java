@@ -5,7 +5,7 @@ public class ListTest1 {
 	public static void main(String[] args) {
 		
 		
-		
+		//safafs
 //		generic <>  기본형을 객체로 감싼 타입인 wrapper 클래스인 integer, Double
 		ArrayList<Integer> arrayList = new ArrayList<Integer>();
 		System.out.println(arrayList);
